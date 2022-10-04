@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Marcelo Agustin Mancini, I’m from Argentina and I study computer science in FAMAF.
-- 👀 I’m interested in learning programing, i’m starting with Frontend at this moment
-- 🌱 I’m currently learning Haskell, Js, Python, Node.Js and Html
+- 👀 I’m interested in learning programing, i’m finishing my road to becoming a full-stack developer. 
+- 🌱 I’m currently learning C, Js, Node.Js, postgrSQL and React.js
